@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sharpness5-sub</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharpness5-sub" alt="sharpness5-sub" /></a> </p>
+<h1 align="center">Hi 👋, I'm Sharpness5-main</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharpness5-main" alt="sharpness5-main" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Dart**
 
