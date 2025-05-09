@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharpness5-main</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharpness5-main" alt="sharpness5-main" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Dart, JavaScript, React**
+- 🌱 I’m currently learning **Python, Dart, JavaScript, React, Unity, Unity C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
